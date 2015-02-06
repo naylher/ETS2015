@@ -9,5 +9,15 @@ public class Hola {
 	public Hola() {
 		dedo = 5;
 	}
+
+	public int getDedo() {
+		return dedo;
+	}
+
+	public void setDedo(int dedo) {
+		this.dedo = dedo;
+	}
+	
+	
 	
 }
