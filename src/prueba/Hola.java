@@ -1,6 +1,6 @@
 package prueba;
 
-public class hola {
+public class Hola {
 /*
  *
  * nuevo cambio 11.56
@@ -10,7 +10,7 @@ public class hola {
 	
 	private int dedo;
 	
-	public hola() {
+	public Hola() {
 		this.dedo = 5;
 	}
 	
